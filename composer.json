@@ -1,0 +1,19 @@
+{
+  "name": "dievirtuellecouch/contao-member-status-mailer",
+  "description": "Toggle member status with mail notification (Contao 5.3)",
+  "type": "contao-bundle",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.1",
+    "contao/core-bundle": "^5.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Websailing\\MemberStatusMailerBundle\\": "src/"
+    }
+  },
+  "extra": {
+    "contao-manager-plugin": "Websailing\\MemberStatusMailerBundle\\ContaoManager\\Plugin"
+  }
+}
+
