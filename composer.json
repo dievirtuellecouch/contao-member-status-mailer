@@ -1,6 +1,6 @@
 {
   "name": "dievirtuellecouch/contao-member-status-mailer",
-  "description": "Toggle member status with mail notification (Contao 5.3)",
+  "description": "Toggle member status with mail notification for Contao 5.3",
   "type": "contao-bundle",
   "license": "proprietary",
   "require": {
